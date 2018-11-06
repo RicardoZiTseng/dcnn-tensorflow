@@ -17,4 +17,4 @@ Testing Accuray: 0.85
 ## Reference
 [1] [Atwood, James, and Don Towsley. "Diffusion-convolutional neural networks." Advances in Neural Information Processing Systems. 2016.](http://papers.nips.cc/paper/6212-diffusion-convolutional-neural-networks.pdf)
 
-[2] [Original DCNN Implementation](https://github.com/jcatw/dcnn)
+[2] [Original DCNN Implementation in Theano and Lasagne](https://github.com/jcatw/dcnn)
